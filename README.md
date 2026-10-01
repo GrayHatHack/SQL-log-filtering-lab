@@ -18,5 +18,8 @@ To practice writing SQL queries and applying filters (such as `WHERE`, `AND`, `O
    ```sql
    SELECT * FROM log_files WHERE login_status = 'FAILED';
 
+## 📸 Screenshots
+![SQL Query Output](Screenshot 2026-10-01 054825.png)
+
 🚀 Key Takeaway
 Learned how security analysts use SQL queries to quickly sift through thousands of log entries to pinpoint specific security anomalies and investigate incidents.
